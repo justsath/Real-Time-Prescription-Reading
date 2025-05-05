@@ -7,3 +7,15 @@ The system workflow is simple and efficient. First, the user provides an image o
 This project is especially beneficial in the healthcare domain as it empowers vulnerable patients to take control of their medication without confusion. It reduces dependency, increases confidence, and ensures that medication is taken correctly. However, challenges like poor image quality, handwritten prescriptions, or abbreviated medical terms may affect OCR accuracy. These can be addressed in future improvements.
 
 Future enhancements to the project could include support for regional languages, integration with mobile health apps, and features like dosage tracking, alerts, or caregiver notifications. Overall, this project offers a practical, real-world application of AI and machine learning to solve a critical problem in healthcare accessibility.
+
+Approach: You need to apply OCR techniques to extract the text data from the prescriptions and convert them into speech.
+
+installations done: paddleOCR paddlepaddle gTTS
+
+Project Title: Real Time Prescription Label Reading
+
+Technologies: Deep Learning Technology (Computer Vision)
+
+Domain: Healthcare
+
+Project Difficulties level: Intermediate
